@@ -66,7 +66,7 @@ Practice on your own by creating a few variables the have numeric values.
 
 Then try declaring a few variables, *without* assigning them values.
 
-Use ```console.log()``` to print the value of those variables with values to the console.
+Use ```console.log()``` to print the value of those variables to the console.
 
 ## Additional Practice
-For extra practice with variables, try the above exercises again. Then by hand. You can also add labels where *declaration*, *assignment* are happening.
+For extra practice with variables, try the above exercises again. Then by hand. You can also write out the code by hand, and annotate the code with your own words.
